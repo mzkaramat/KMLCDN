@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Natural" id="Natural">
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="code" type="int"></SimpleField>
+	<SimpleField name="fclass" type="string"></SimpleField>
+</Schema>
+<Folder><name>Natural</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226552</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9493731,50.9388913990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226553</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.949155,50.9388855990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226554</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9489432,50.9388830990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226555</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9502122,50.9388993990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226556</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9499957,50.9388974990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226557</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9497959,50.9388884990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5366226558</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9495794,50.9388774990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611706</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9495926,50.9489581990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611708</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9493917,50.9488710990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5423140039</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9537308,50.9457198990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1591072176</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9577584,50.9401169990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1591072183</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.95785,50.9401179990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611719</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9471767,50.9480152990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611720</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.948419,50.9485293990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611721</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9475296,50.9481625990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1451675931</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9599106,50.9387278990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611722</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9482701,50.9484684990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4124445319</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9617617,50.9398108990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4124445320</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9616421,50.9398130990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611729</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9473587,50.9480929990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611731</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9478811,50.9483108990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611733</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9490032,50.9487533990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611735</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9486067,50.9486006990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611737</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9497506,50.9490258990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611738</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9488241,50.9486758990774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611739</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9492098,50.9488147990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026611740</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9481018,50.9483952990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4026628720</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9474069,50.9488091990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928411</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9515759,50.9396996990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928412</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516315,50.9397062990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928413</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516862,50.9397110990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928414</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9517399,50.9397177990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5427093433</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9608561,50.9384811990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928415</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9515855,50.9396754990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5427093434</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.960954,50.9384785990772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928416</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516018,50.9396379990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5427093435</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.960965,50.9384052990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928417</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516095,50.9396059990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5427093436</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.960865,50.9383991990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928418</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516536,50.9396101990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5427093437</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9609533,50.9382529990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928419</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516478,50.9396452990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935928420</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516363,50.9396808990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935021</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516929,50.9396863990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935022</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9516996,50.9396512990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1026198715</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9563494,50.9403605990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935023</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9517063,50.9396174990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935024</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9517466,50.9396923990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935025</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9517552,50.9396591990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1794608406</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9527597,50.9426224990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935935026</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9517629,50.9396271990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2225443237</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9513578,50.9414467990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4935937084</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9553674,50.9397018990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3769971468</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9608828,50.9451678990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3769971469</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9608501,50.9450890990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3769971470</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.960567,50.9448386990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779295</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9564985,50.9414987990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3769971471</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9606206,50.9449117990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779299</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566001,50.9415022990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3769971472</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.960993,50.9452956990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779301</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566974,50.9415069990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471036</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9606801,50.9467784990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779305</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9564884,50.9415483990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471037</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9595207,50.9469249990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779309</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9565891,50.9415518990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471038</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9605639,50.9470237990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779312</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566889,50.9415542990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471039</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9598404,50.9470365990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779315</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.956485,50.9415950990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471040</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9607993,50.9470512990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779316</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9565841,50.9415997990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2460471041</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9598258,50.9471702990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1726779318</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566892,50.9416108990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950773</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9565116,50.9456904990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950774</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566021,50.9456870990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950775</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.956692,50.9456879990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950776</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9565284,50.9458446990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950777</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566095,50.9458472990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950778</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566933,50.9458455990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950779</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9566886,50.9457749990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5234950780</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9568207,50.9457736990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3898140069</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.959478,50.9392863990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625608535</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9511862,50.9375744990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610524</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9522888,50.9375958990772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610526</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9523383,50.9376330990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610527</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9522499,50.9376353990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610531</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9525499,50.9376772990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610536</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9523956,50.9381714990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610539</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9526666,50.9382094990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1625610544</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9524224,50.9382308990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4686918392</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9569155,50.9386667990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4686918393</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9569121,50.9385208990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967529</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9615579,50.9459165990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5607443021</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9595643,50.9399266990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967611</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.961482,50.9462171990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967621</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9615105,50.9462639990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967644</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9615458,50.9463286990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967680</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9616463,50.9464781990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967684</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9620654,50.9465321990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967690</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9621147,50.9466066990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967696</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9617584,50.9466571990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967698</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.961844,50.9467092990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1800967701</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9619332,50.9467601990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6208238655</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9514235,50.9414339990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5818060884</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9621327,50.9403459990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6208238656</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9513498,50.9414123990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5818060885</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9624117,50.9409155990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6208238657</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9514099,50.9413934990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4741843690</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685846,50.9379822990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192069</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685225,50.9407581990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3068301711</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.947294,50.9456929990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4741843691</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685933,50.9380968990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5200397414</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9509795,50.9430485990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192070</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685194,50.9405798990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3068301712</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9474193,50.9456938990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4741843692</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.968596,50.9382130990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192071</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685178,50.9404901990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3068301716</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9471394,50.9457271990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4741843693</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685966,50.9383418990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192072</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685162,50.9403989990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3068301717</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9472494,50.9457693990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4741843694</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9686007,50.9384496990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192073</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685143,50.9402933990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3068301718</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9473371,50.9457965990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5991192074</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9685131,50.9402248990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891534</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9654678,50.9487083990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4924397987</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9600861,50.9381133990772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891536</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.965388,50.9487285990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891538</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9655632,50.9488322990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891542</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.965613,50.9488936990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2125707031</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9623021,50.9385512990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891543</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9656666,50.9489555990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2125707035</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9624566,50.9385699990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2295891545</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.965712,50.9490152990774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2382276517</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9507859,50.9389892990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">2588034880</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9533397,50.9412084990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6346192968</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9622539,50.9395844990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1952672565</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9537147,50.9379306990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6346192969</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9623006,50.9394204990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1952672571</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9537027,50.9381086990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6346192970</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627133,50.9389721990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">6346192971</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.963067,50.9379217990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851702</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9544145,50.9411671990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851703</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9550976,50.9408209990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851704</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9553609,50.9412687990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851705</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9538232,50.9409992990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851706</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9558586,50.9412856990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851707</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9539602,50.9410519990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851708</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9551274,50.9409598990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851709</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9546705,50.9406229990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851710</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9544829,50.9409335990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851711</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9542523,50.9410255990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851712</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9542373,50.9411119990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851713</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9547778,50.9410558990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851714</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9547833,50.9407107990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633851715</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9546167,50.9410479990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633852972</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9540618,50.9406322990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">3633852973</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.953692,50.9410386990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1563002276</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9576659,50.9401180990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1572703309</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9601335,50.9391356990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">5614747854</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9615065,50.9471478990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1439231909</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9584915,50.9398708990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">1439231910</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9582813,50.9398637990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398550</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9626544,50.9383867990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398551</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627253,50.9383906990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398552</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627958,50.9383945990772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398553</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9628684,50.9383986990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398554</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9626477,50.9384344990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398555</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627175,50.9384381990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398556</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627886,50.9384431990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398557</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9628617,50.9384464990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398558</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9626408,50.9384836990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398559</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627091,50.9384871990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4004503938</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9502706,50.9381132990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398560</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627789,50.9384913990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4004503939</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9502849,50.9381660990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398561</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.962855,50.9384947990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4004503940</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9502981,50.9382146990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398562</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9626341,50.9385315990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4004503941</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.950318,50.9382792990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398563</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627024,50.9385353990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4004503942</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9503411,50.9383528990772</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398564</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9627712,50.9385391990773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Natural">
+		<SimpleData name="osm_id">4257398565</SimpleData>
+		<SimpleData name="code">4121</SimpleData>
+		<SimpleData name="fclass">tree</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>6.9628482,50.9385434990773</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
