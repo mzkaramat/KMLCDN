@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="BusStation" id="BusStation">
+	<SimpleField name="osm_id" type="string"></SimpleField>
+	<SimpleField name="code" type="int"></SimpleField>
+	<SimpleField name="fclass" type="string"></SimpleField>
+</Schema>
+<Folder><name>BusStation</name>
+  <Placemark>
+	<name>Breslauer Platz/Hbf</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#BusStation">
+		<SimpleData name="osm_id">541551673</SimpleData>
+		<SimpleData name="code">5622</SimpleData>
+		<SimpleData name="fclass">bus_station</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9603884,50.9429749990773 6.9604808,50.9431099990773 6.9606934,50.9431441990773 6.9607287,50.9431997990773 6.9608594,50.9431685990773 6.960908,50.9432492990773 6.9612387,50.9431730990773 6.9610169,50.9428196990773 6.9603884,50.9429749990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
