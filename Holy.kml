@@ -9,7 +9,7 @@
 <Folder><name>Holy</name>
   <Placemark>
 	<name>Kölner Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">4532022</SimpleData>
 		<SimpleData name="code">3100</SimpleData>
@@ -19,7 +19,7 @@
   </Placemark>
   <Placemark>
 	<name>Ursulinenkirche St. Corpus Christi</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">236587293</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -29,7 +29,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Maria ad Ortum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">38028565</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -39,7 +39,7 @@
   </Placemark>
   <Placemark>
 	<name>Kale-Moschee</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">203762927</SimpleData>
 		<SimpleData name="code">3300</SimpleData>
@@ -49,7 +49,7 @@
   </Placemark>
   <Placemark>
 	<name>Madonna in den Trümmern</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">328877085</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -59,7 +59,7 @@
   </Placemark>
   <Placemark>
 	<name>Gemeinschaft von Jerusalem</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">329198768</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -69,7 +69,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Ursula</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">27780576</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
 	<name>Seminarkirche</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">31290621</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
 	<name>Hl. Konstantin u. Helena</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">31290799</SimpleData>
 		<SimpleData name="code">3100</SimpleData>
@@ -99,7 +99,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Maria in der Kupfergasse</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">29207390</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -109,7 +109,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Kunibert</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">316013323</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -119,7 +119,7 @@
   </Placemark>
   <Placemark>
 	<name>Minoritenkirche</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">25219546</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -128,7 +128,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9543205,50.9393435990773 6.9543227,50.9393542990773 6.9543579,50.9393511990773 6.9543663,50.9393972990773 6.9543748,50.9394435990773 6.9543388,50.9394463990773 6.9543411,50.9394559990773 6.9543766,50.9394532990773 6.9543833,50.9394972990773 6.9543629,50.9394986990773 6.9543658,50.9395084990773 6.9543853,50.9395068990773 6.9543864,50.9395113990773 6.9543939,50.9395110990773 6.9549878,50.9394691990773 6.9550395,50.9394655990773 6.955034,50.9394346990773 6.9550296,50.9394038990773 6.9550924,50.9393999990773 6.9550938,50.9394091990773 6.9551076,50.9394081990773 6.9551062,50.9393996990773 6.9551453,50.9393968990773 6.9551469,50.9394049990773 6.9551617,50.9394039990773 6.9551602,50.9393955990773 6.9552094,50.9393846990773 6.9552115,50.9393840990773 6.9552298,50.9393610990773 6.9552446,50.9393634990773 6.9552483,50.9393548990773 6.9552327,50.9393524990773 6.9552287,50.9393250990773 6.9552422,50.9393213990773 6.9552367,50.9393135990773 6.9552223,50.9393164990773 6.955194,50.9392981990773 6.9552012,50.9392889990773 6.9551863,50.9392847990773 6.9551805,50.9392932990773 6.9551405,50.9392871990773 6.9551397,50.9392783990773 6.9551261,50.9392790990773 6.955127,50.9392874990773 6.9550859,50.9392893990773 6.9550847,50.9392815990773 6.9550694,50.9392825990773 6.9550709,50.9392902990773 6.9550123,50.9392934990773 6.9550046,50.9392513990773 6.9550192,50.9392503990773 6.955018,50.9392413990773 6.9550031,50.9392422990773 6.9550019,50.9392345990773 6.9549863,50.9392354990773 6.9549877,50.9392437990773 6.9543651,50.9392880990773 6.954362,50.9392751990773 6.954349,50.9392760990773 6.9543507,50.9392887990773 6.9543295,50.9392899990773 6.9543306,50.9392997990773 6.9543525,50.9392978990773 6.9543601,50.9393407990773 6.9543205,50.9393435990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">328259604</SimpleData>
 		<SimpleData name="code">3100</SimpleData>
@@ -138,7 +138,7 @@
   </Placemark>
   <Placemark>
 	<name>Domherrenfriedhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">38589965</SimpleData>
 		<SimpleData name="code">3100</SimpleData>
@@ -148,7 +148,7 @@
   </Placemark>
   <Placemark>
 	<name>Groß St. Martin</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">25270980</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -158,7 +158,7 @@
   </Placemark>
   <Placemark>
 	<name>St.Andreas</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">25284355</SimpleData>
 		<SimpleData name="code">3102</SimpleData>
@@ -168,7 +168,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Maria Himmelfahrt</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>641478FF</color></LineStyle><PolyStyle><color>321478FF</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Holy">
 		<SimpleData name="osm_id">27274393</SimpleData>
 		<SimpleData name="code">3102</SimpleData>

@@ -9,7 +9,7 @@
 <Folder><name>POIS</name>
   <Placemark>
 	<name>Hotel Eigel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282292944</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -19,7 +19,7 @@
   </Placemark>
   <Placemark>
 	<name>Bistro Lux</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">256756267</SimpleData>
 		<SimpleData name="code">2301</SimpleData>
@@ -29,7 +29,7 @@
   </Placemark>
   <Placemark>
 	<name>Penny</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">256756274</SimpleData>
 		<SimpleData name="code">2501</SimpleData>
@@ -39,7 +39,7 @@
   </Placemark>
   <Placemark>
 	<name>Currywurst</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29139245</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -49,7 +49,7 @@
   </Placemark>
   <Placemark>
 	<name>Abendgymnasium Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">91006043</SimpleData>
 		<SimpleData name="code">2082</SimpleData>
@@ -59,7 +59,7 @@
   </Placemark>
   <Placemark>
 	<name>Rheingarten</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">4532046</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -69,7 +69,7 @@
   </Placemark>
   <Placemark>
 	<name>Kommerz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29139315</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -79,7 +79,7 @@
   </Placemark>
   <Placemark>
 	<name>Currywurst Express</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">463029278</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -89,7 +89,7 @@
   </Placemark>
   <Placemark>
 	<name>Römische Hafenstraße</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">154567191</SimpleData>
 		<SimpleData name="code">2733</SimpleData>
@@ -99,7 +99,7 @@
   </Placemark>
   <Placemark>
 	<name>Breslauer Hof am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29139915</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -109,7 +109,7 @@
   </Placemark>
   <Placemark>
 	<name>Marriott</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29142268</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -119,7 +119,7 @@
   </Placemark>
   <Placemark>
 	<name>Obelisk of Tutankhamun</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">566640002</SimpleData>
 		<SimpleData name="code">2725</SimpleData>
@@ -129,7 +129,7 @@
   </Placemark>
   <Placemark>
 	<name>Rheingartenbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">137399526</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -138,7 +138,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9620353,50.9406473990773 6.9620482,50.9406627990773 6.9620759,50.9406589990773 6.9621214,50.9406264990773 6.9621595,50.9405845990773 6.9622295,50.9405263990773 6.9623291,50.9404916990773 6.9624396,50.9404331990773 6.9624756,50.9403885990773 6.9624707,50.9403498990773 6.9624441,50.9403146990773 6.9623684,50.9403108990773 6.962312,50.9403195990773 6.9622544,50.9403371990773 6.9621967,50.9404554990773 6.9621091,50.9405264990773 6.9620526,50.9406070990773 6.9620353,50.9406473990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">587823516</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -148,7 +148,7 @@
   </Placemark>
   <Placemark>
 	<name>Santo</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282396915</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -157,7 +157,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9585518,50.9482618990773 6.9585604,50.9483772990773 6.9585636,50.9484044990773 6.9586106,50.9484028990773 6.9586114,50.9484109990773 6.9588774,50.9484014990773 6.9588766,50.9483937990773 6.9590858,50.9483865990773 6.9590836,50.9482746990773 6.9590849,50.9482745990773 6.9590842,50.9482387990773 6.9590818,50.9482387990773 6.9590818,50.9482400990773 6.9588545,50.9482461990773 6.9588583,50.9482895990773 6.958807,50.9482913990773 6.9588028,50.9482482990773 6.9587441,50.9482507990773 6.9586223,50.9482598990773 6.9586203,50.9482570990773 6.9585518,50.9482618990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282449462</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -166,7 +166,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9520323,50.9468664990773 6.9520732,50.9468915990773 6.9521147,50.9468623990773 6.9521509,50.9468828990773 6.9521624,50.9468706990773 6.9522182,50.9468099990773 6.9521682,50.9467704990773 6.9520788,50.9468334990773 6.9520323,50.9468664990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282647872</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -176,7 +176,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel City</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282647888</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -186,7 +186,7 @@
   </Placemark>
   <Placemark>
 	<name>DJH Jugendherberge Pathpoint Cologne</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282654372</SimpleData>
 		<SimpleData name="code">2405</SimpleData>
@@ -196,7 +196,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Domspitzen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282654465</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -206,7 +206,7 @@
   </Placemark>
   <Placemark>
 	<name>Seniorenhaus St. Maria</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29207815</SimpleData>
 		<SimpleData name="code">2013</SimpleData>
@@ -215,7 +215,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9488453,50.9400770990773 6.9489007,50.9400770990773 6.9489856,50.9400770990773 6.9489859,50.9400757990773 6.9491279,50.9400762990773 6.9491283,50.9400751990773 6.9495211,50.9400780990773 6.9495215,50.9400669990772 6.9495203,50.9400666990773 6.9495209,50.9399905990773 6.9495214,50.9399229990773 6.9494752,50.9399229990773 6.9494752,50.9399030990773 6.949424,50.9399023990773 6.9494245,50.9398917990773 6.9493764,50.9398916990773 6.9493764,50.9398809990773 6.9493281,50.9398809990773 6.9493285,50.9398701990773 6.9492801,50.9398701990773 6.9492804,50.9398594990773 6.9492283,50.9398589990773 6.9492288,50.9398479990773 6.9491801,50.9398477990773 6.9491806,50.9398370990773 6.9491323,50.9398373990773 6.9491327,50.9398264990773 6.9490846,50.9398264990773 6.9490842,50.9398156990773 6.949036,50.9398156990773 6.9490364,50.9398033990773 6.9489875,50.9398033990773 6.9489881,50.9396907990773 6.9488473,50.9396875990773 6.9488459,50.9399472990773 6.9488453,50.9400770990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29207816</SimpleData>
 		<SimpleData name="code">2013</SimpleData>
@@ -225,7 +225,7 @@
   </Placemark>
   <Placemark>
 	<name>Appartment Service Das Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">29214631</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -235,7 +235,7 @@
   </Placemark>
   <Placemark>
 	<name>Gereonsmühle</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282852380</SimpleData>
 		<SimpleData name="code">2731</SimpleData>
@@ -245,7 +245,7 @@
   </Placemark>
   <Placemark>
 	<name>Heinzelmännchenbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">550251822</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -255,7 +255,7 @@
   </Placemark>
   <Placemark>
 	<name>Heinzelmännchenbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">550251822</SimpleData>
 		<SimpleData name="code">2721</SimpleData>
@@ -265,7 +265,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Zum Kostbaren Blut</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">51774291</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -275,7 +275,7 @@
   </Placemark>
   <Placemark>
 	<name>Ostermannbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">550255415</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -285,7 +285,7 @@
   </Placemark>
   <Placemark>
 	<name>Fischweiber</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">550257422</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -295,7 +295,7 @@
   </Placemark>
   <Placemark>
 	<name>Domstern</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282923281</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -304,7 +304,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9590217,50.9460489990773 6.9590427,50.9461217990773 6.9591662,50.9461071990773 6.9592754,50.9460942990773 6.9592515,50.9460317990773 6.9591817,50.9460413990773 6.9591808,50.9460381990773 6.9591673,50.9460396990773 6.9591692,50.9460467990773 6.9591488,50.9460493990773 6.9591444,50.9460344990773 6.9590217,50.9460489990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">550257773</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -314,7 +314,7 @@
   </Placemark>
   <Placemark>
 	<name>Rossner</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282923358</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -324,7 +324,7 @@
   </Placemark>
   <Placemark>
 	<name>Brauhaus Früh am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">142820042</SimpleData>
 		<SimpleData name="code">2301</SimpleData>
@@ -333,7 +333,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9568677,50.9398836990773 6.9569536,50.9398853990773 6.9570358,50.9398868990773 6.9570365,50.9398867990773 6.9570415,50.9397718990773 6.9570409,50.9397631990773 6.9570371,50.9397067990773 6.9570234,50.9396544990773 6.9568794,50.9396561990773 6.956872,50.9396561990773 6.9568738,50.9396772990773 6.9568709,50.9396773990773 6.9568705,50.9396948990773 6.9568705,50.9397195990773 6.9568748,50.9397231990773 6.9568677,50.9398836990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">283065327</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -343,7 +343,7 @@
   </Placemark>
   <Placemark>
 	<name>Domschatzkammer</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">38578888</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -353,7 +353,7 @@
   </Placemark>
   <Placemark>
 	<name>Domherrenfriedhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">38589965</SimpleData>
 		<SimpleData name="code">2015</SimpleData>
@@ -363,7 +363,7 @@
   </Placemark>
   <Placemark>
 	<name>Hansaplatz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">38698578</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -373,7 +373,7 @@
   </Placemark>
   <Placemark>
 	<name>Lint Hotel Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">60794997</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -382,7 +382,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9608282,50.9381744990772 6.9609579,50.9381886990773 6.9609839,50.9381093990772 6.9608574,50.9380931990773 6.9608282,50.9381744990772</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">60794999</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -391,7 +391,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9618273,50.9387464990773 6.9619364,50.9387513990773 6.9620426,50.9387545990773 6.96209,50.9385739990772 6.9620193,50.9385653990773 6.9620132,50.9385803990773 6.9620046,50.9385910990773 6.9619945,50.9386008990773 6.961983,50.9386071990773 6.9619681,50.9386136990773 6.9619494,50.9386202990773 6.9619302,50.9386240990773 6.9619037,50.9386240990773 6.9619015,50.9386449990773 6.9618669,50.9386434990773 6.9618623,50.9386606990773 6.9618497,50.9386769990773 6.9618409,50.9386844990773 6.9618346,50.9386873990773 6.9618273,50.9387464990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">502920964</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -401,7 +401,7 @@
   </Placemark>
   <Placemark>
 	<name>Merck Finck &amp; Co.</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33814459</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -411,7 +411,7 @@
   </Placemark>
   <Placemark>
 	<name>August-Sander-Park</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">74552185</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -421,7 +421,7 @@
   </Placemark>
   <Placemark>
 	<name>Terrasse Cafe Reichard</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">358469265</SimpleData>
 		<SimpleData name="code">2721</SimpleData>
@@ -430,7 +430,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9557353,50.9412428990773 6.9557545,50.9412799990773 6.9558158,50.9413010990773 6.9559079,50.9413118990773 6.9559901,50.9413057990773 6.9560682,50.9412728990773 6.9560935,50.9412231990773 6.9560652,50.9411696990773 6.9559916,50.9411442990773 6.9560059,50.9410905990773 6.955746,50.9410823990773 6.955745,50.9410949990773 6.9557413,50.9411405990773 6.9557485,50.9412020990773 6.9557353,50.9412428990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33816734</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -440,7 +440,7 @@
   </Placemark>
   <Placemark>
 	<name>Regierungspräsidium Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33816737</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -450,7 +450,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Kunibert</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">316013324</SimpleData>
 		<SimpleData name="code">2083</SimpleData>
@@ -460,7 +460,7 @@
   </Placemark>
   <Placemark>
 	<name>Galeria Karstadt Kaufhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">7035069</SimpleData>
 		<SimpleData name="code">2505</SimpleData>
@@ -469,7 +469,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9478411,50.9384314990773 6.9478584,50.9386184990773 6.9478613,50.9386181990773 6.9478617,50.9386211990773 6.947849,50.9386216990773 6.9478529,50.9386646990773 6.9478501,50.9386649990773 6.9478605,50.9387796990773 6.9478925,50.9387971990773 6.947926,50.9388123990773 6.9479265,50.9388085990773 6.9479744,50.9388077990773 6.947975,50.9388193990773 6.9484893,50.9388112990773 6.9488278,50.9388058990773 6.9489072,50.9388073990773 6.9490744,50.9388106990773 6.9492623,50.9388142990773 6.9492643,50.9387951990773 6.9493831,50.9387971990773 6.9493841,50.9387357990773 6.9494414,50.9387360990773 6.9494393,50.9385990990773 6.9494446,50.9377910990773 6.9488512,50.9377914990773 6.9488044,50.9378738990772 6.9487762,50.9378659990773 6.9487405,50.9379080990773 6.9487392,50.9379075990772 6.948737,50.9379086990773 6.9487023,50.9379491990773 6.9486828,50.9379644990773 6.9486368,50.9380067990773 6.9485517,50.9380785990773 6.9485441,50.9380758990773 6.9485298,50.9380733990773 6.9485165,50.9380752990773 6.9485074,50.9380780990773 6.9484559,50.9381150990773 6.9484115,50.9381438990773 6.9483647,50.9381739990773 6.9483162,50.9382036990773 6.9482491,50.9382406990773 6.9481894,50.9382711990773 6.9481269,50.9383004990773 6.9480684,50.9383261990773 6.947993,50.9383566990773 6.9479958,50.9383596990773 6.9479978,50.9383588990773 6.9480126,50.9383735990773 6.9479808,50.9383860990773 6.9478841,50.9384183990773 6.9478411,50.9384314990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663220429</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -479,7 +479,7 @@
   </Placemark>
   <Placemark>
 	<name>Halfpipe</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">301132577</SimpleData>
 		<SimpleData name="code">2252</SimpleData>
@@ -488,7 +488,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9496796,50.9458958990773 6.9497041,50.9459259990773 6.9498088,50.9458921990773 6.9497843,50.9458620990773 6.9496796,50.9458958990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663220733</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -497,7 +497,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9548653,50.9419584990773 6.9548973,50.9419794990773 6.9549419,50.9419806990773 6.9549784,50.9419600990773 6.9549795,50.9419284990773 6.9549494,50.9419082990773 6.9548999,50.9419067990773 6.9548667,50.9419270990773 6.9548653,50.9419584990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663222350</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -506,7 +506,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9549823,50.9394382990773 6.9549878,50.9394691990773 6.9550395,50.9394655990773 6.955034,50.9394346990773 6.9549823,50.9394382990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663222899</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -516,7 +516,7 @@
   </Placemark>
   <Placemark>
 	<name>Romulus und Remus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663224943</SimpleData>
 		<SimpleData name="code">2723</SimpleData>
@@ -526,7 +526,7 @@
   </Placemark>
   <Placemark>
 	<name>Römerbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">663225886</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -535,7 +535,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9509858,50.9413584990773 6.9510575,50.9413638990773 6.9510704,50.9413763990773 6.9510917,50.9413879990773 6.9511167,50.9413971990773 6.9511404,50.9414017990773 6.9511667,50.9414045990773 6.9511877,50.9414035990773 6.951206,50.9414004990773 6.9512303,50.9413947990773 6.9512496,50.9413848990773 6.9512665,50.9413727990773 6.9512755,50.9413613990773 6.9514898,50.9413713990773 6.9514953,50.9413390990773 6.9512571,50.9413240990773 6.9512488,50.9413424990773 6.951238,50.9413521990773 6.9512186,50.9413619990773 6.9511971,50.9413664990773 6.9511746,50.9413686990773 6.9511499,50.9413645990773 6.9511259,50.9413556990773 6.9511095,50.9413416990773 6.9511039,50.9413306990773 6.9511016,50.9413148990773 6.9510127,50.9413076990773 6.9509858,50.9413584990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">31291569</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -544,7 +544,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9521966,50.9427665990773 6.952289,50.9427734990773 6.9523008,50.9427100990773 6.9522061,50.9427021990773 6.9521966,50.9427665990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">90115395</SimpleData>
 		<SimpleData name="code">2252</SimpleData>
@@ -554,7 +554,7 @@
   </Placemark>
   <Placemark>
 	<name>Kamps</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">490414542</SimpleData>
 		<SimpleData name="code">2502</SimpleData>
@@ -564,7 +564,7 @@
   </Placemark>
   <Placemark>
 	<name>Petrusbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">530670845</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -574,7 +574,7 @@
   </Placemark>
   <Placemark>
 	<name>Kentucky Fried Chicken</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">490414547</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -584,7 +584,7 @@
   </Placemark>
   <Placemark>
 	<name>Ursulaplatz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">504577811</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -594,7 +594,7 @@
   </Placemark>
   <Placemark>
 	<name>Taubenbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">530671643</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -603,7 +603,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9563215,50.9412103990773 6.956324,50.9412172990773 6.9563302,50.9412233990773 6.9563392,50.9412276990773 6.95635,50.9412298990773 6.9563613,50.9412295990773 6.9563719,50.9412268990773 6.9563803,50.9412220990773 6.9563856,50.9412157990773 6.9563873,50.9412086990773 6.956385,50.9412016990773 6.9563798,50.9411961990773 6.9563721,50.9411918990773 6.9563627,50.9411892990773 6.9563525,50.9411885990773 6.9563425,50.9411899990773 6.9563337,50.9411931990773 6.9563268,50.9411979990773 6.9563226,50.9412038990773 6.9563215,50.9412103990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">25251424</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -613,7 +613,7 @@
   </Placemark>
   <Placemark>
 	<name>Ditsch</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">490414554</SimpleData>
 		<SimpleData name="code">2502</SimpleData>
@@ -623,7 +623,7 @@
   </Placemark>
   <Placemark>
 	<name>Eck Cafe</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">222858622</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -633,7 +633,7 @@
   </Placemark>
   <Placemark>
 	<name>Meister Bock Wurstbasar</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">490414556</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -642,7 +642,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9586983,50.9427349990773 6.9587451,50.9427545990773 6.9587876,50.9427723990773 6.9588083,50.9427525990773 6.9588005,50.9427273990773 6.958735,50.9427000990773 6.9586983,50.9427349990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">504625900</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -651,7 +651,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9590132,50.9435838990773 6.9590522,50.9435999990773 6.9590863,50.9435670990773 6.9590473,50.9435509990773 6.9590132,50.9435838990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">490414557</SimpleData>
 		<SimpleData name="code">2590</SimpleData>
@@ -661,7 +661,7 @@
   </Placemark>
   <Placemark>
 	<name>REWE to go</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">504626590</SimpleData>
 		<SimpleData name="code">2501</SimpleData>
@@ -670,7 +670,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.958836,50.9429828990773 6.9591039,50.9430926990773 6.9592031,50.9429964990773 6.9590565,50.9429364990773 6.9589604,50.9428970990773 6.9589421,50.9429148990773 6.9589169,50.9429045990773 6.958836,50.9429828990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">301697438</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -680,7 +680,7 @@
   </Placemark>
   <Placemark>
 	<name>Rathaus (Spanischer Bau)</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">287649</SimpleData>
 		<SimpleData name="code">2008</SimpleData>
@@ -690,7 +690,7 @@
   </Placemark>
   <Placemark>
 	<name>Oper der Stadt Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">23566809</SimpleData>
 		<SimpleData name="code">2201</SimpleData>
@@ -700,7 +700,7 @@
   </Placemark>
   <Placemark>
 	<name>Maternushaus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">23571714</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -710,7 +710,7 @@
   </Placemark>
   <Placemark>
 	<name>Wyndham</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">31415072</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -720,7 +720,7 @@
   </Placemark>
   <Placemark>
 	<name>Buchholz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">32697539</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -729,7 +729,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9623653,50.9460243990773 6.9623865,50.9460497990773 6.9624248,50.9460952990773 6.9625698,50.9460487990773 6.9625108,50.9459765990773 6.9623728,50.9460217990773 6.9623653,50.9460243990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">32697805</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -739,7 +739,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Vincenz Haus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">32699451</SimpleData>
 		<SimpleData name="code">2013</SimpleData>
@@ -749,7 +749,7 @@
   </Placemark>
   <Placemark>
 	<name>Domfontäne</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">114979719</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -759,7 +759,7 @@
   </Placemark>
   <Placemark>
 	<name>Jakordenhaus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">31510483</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -769,7 +769,7 @@
   </Placemark>
   <Placemark>
 	<name>Hochschule für Musik und Tanz Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">202117250</SimpleData>
 		<SimpleData name="code">2084</SimpleData>
@@ -779,7 +779,7 @@
   </Placemark>
   <Placemark>
 	<name>Domfontäne</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">114979719</SimpleData>
 		<SimpleData name="code">2721</SimpleData>
@@ -789,7 +789,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Callas am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">88338266</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -798,7 +798,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9560438,50.9398577990773 6.9560472,50.9399353990773 6.9560909,50.9399370990773 6.9560925,50.9399554990773 6.9561909,50.9399478990773 6.9563043,50.9399395990773 6.9563023,50.9399229990773 6.9562983,50.9398934990773 6.9562944,50.9398570990773 6.9561885,50.9398571990773 6.956108,50.9398553990773 6.9560438,50.9398577990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">252343311</SimpleData>
 		<SimpleData name="code">2251</SimpleData>
@@ -808,7 +808,7 @@
   </Placemark>
   <Placemark>
 	<name>Südtürm</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">645732603</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -818,7 +818,7 @@
   </Placemark>
   <Placemark>
 	<name>Nordturm</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">645732604</SimpleData>
 		<SimpleData name="code">2950</SimpleData>
@@ -828,7 +828,7 @@
   </Placemark>
   <Placemark>
 	<name>FH für öffentliche Verwaltung NRW, Abteilung Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">249518065</SimpleData>
 		<SimpleData name="code">2081</SimpleData>
@@ -838,7 +838,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Vincenz Haus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">249530913</SimpleData>
 		<SimpleData name="code">2013</SimpleData>
@@ -847,7 +847,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9635891,50.9485510990773 6.9636038,50.9485700990773 6.9636489,50.9486284990773 6.96366,50.9486429990773 6.9637373,50.9487432990773 6.9637505,50.9487604990773 6.9638635,50.9489071990773 6.9638752,50.9489224990773 6.9638949,50.9489478990773 6.9638991,50.9489533990773 6.9639113,50.9489693990773 6.9639154,50.9489746990773 6.9639276,50.9489905990773 6.9639309,50.9489947990773 6.9639432,50.9490106990773 6.9639473,50.9490161990773 6.9639511,50.9490209990773 6.9639902,50.9490319990773 6.9639937,50.9490311990773 6.9640021,50.9490296990773 6.9640279,50.9490248990773 6.9640362,50.9490232990773 6.9640624,50.9490183990773 6.9640716,50.9490166990773 6.9640979,50.9490116990773 6.9641069,50.9490099990774 6.9642591,50.9489815990773 6.9643065,50.9489726990773 6.9646998,50.9488693990773 6.9647219,50.9488635990773 6.9649387,50.9487950990773 6.9649617,50.9487482990773 6.9643527,50.9480118990773 6.964343,50.9480163990773 6.9643402,50.9480129990773 6.9641692,50.9480725990773 6.9641234,50.9480902990773 6.9641353,50.9481064990773 6.9637311,50.9482494990773 6.9638912,50.9484597990773 6.9637726,50.9484946990773 6.9637309,50.9485074990773 6.9635891,50.9485510990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">115096258</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -857,7 +857,7 @@
   </Placemark>
   <Placemark>
 	<name>CityClass Residence am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">44129950</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -867,7 +867,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Bürgerhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">44129955</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -877,7 +877,7 @@
   </Placemark>
   <Placemark>
 	<name>WDR-Besucherzentrum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">229660359</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -886,7 +886,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9525446,50.9398808990773 6.9526664,50.9398946990773 6.9526692,50.9399197990773 6.9526588,50.9399443990773 6.9526224,50.9399413990773 6.9526195,50.9399536990773 6.9526995,50.9399619990773 6.9527262,50.9399648990773 6.9528322,50.9399747990773 6.9529354,50.9399824990773 6.9529564,50.9398859990773 6.952555,50.9398461990773 6.9525446,50.9398808990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">10154135</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -896,7 +896,7 @@
   </Placemark>
   <Placemark>
 	<name>Zeichen für den Wiederaufbau</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">536944072</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -906,7 +906,7 @@
   </Placemark>
   <Placemark>
 	<name>1. Klasse</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">418587806</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -916,7 +916,7 @@
   </Placemark>
   <Placemark>
 	<name>Body Shop</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">418587815</SimpleData>
 		<SimpleData name="code">2529</SimpleData>
@@ -925,7 +925,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9579389,50.9424850990773 6.9579457,50.9424878990773 6.9580142,50.9425165990773 6.9580759,50.9424580990773 6.9580005,50.9424265990773 6.9579877,50.9424385990773 6.9579505,50.9424740990773 6.9579445,50.9424792990773 6.9579389,50.9424850990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">85524948</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -935,7 +935,7 @@
   </Placemark>
   <Placemark>
 	<name>DB Information</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">418587816</SimpleData>
 		<SimpleData name="code">2701</SimpleData>
@@ -945,7 +945,7 @@
   </Placemark>
   <Placemark>
 	<name>Hopper Hotel St. Antonius</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">61845063</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -954,7 +954,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9596632,50.9481088990773 6.9596679,50.9481582990773 6.9596713,50.9481954990773 6.9596731,50.9482140990773 6.959685,50.9483353990773 6.9601127,50.9482956990773 6.9600936,50.9482136990773 6.9600846,50.9481759990773 6.9600632,50.9480835990773 6.9600617,50.9480777990773 6.9600395,50.9480794990773 6.9599637,50.9480855990773 6.959758,50.9481015990773 6.9597316,50.9481034990773 6.9596632,50.9481088990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">418587818</SimpleData>
 		<SimpleData name="code">2563</SimpleData>
@@ -964,7 +964,7 @@
   </Placemark>
   <Placemark>
 	<name>Kamps</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">418587819</SimpleData>
 		<SimpleData name="code">2502</SimpleData>
@@ -974,7 +974,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Lindner Dom Residence</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27274660</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -984,7 +984,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Am Rathaus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">50456275</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -994,7 +994,7 @@
   </Placemark>
   <Placemark>
 	<name>Polizeiinspektion Mitte</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27275283</SimpleData>
 		<SimpleData name="code">2001</SimpleData>
@@ -1003,7 +1003,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9532331,50.9441222990773 6.9533825,50.9443960990773 6.9535894,50.9443814990773 6.9535946,50.9443567990773 6.9536077,50.9443578990773 6.9536366,50.9442260990773 6.95366,50.9441195990773 6.9536448,50.9441182990773 6.9534529,50.9441008990773 6.9532331,50.9441222990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">176387719</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -1013,7 +1013,7 @@
   </Placemark>
   <Placemark>
 	<name>Brauhaus Sion</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165369</SimpleData>
 		<SimpleData name="code">2301</SimpleData>
@@ -1023,7 +1023,7 @@
   </Placemark>
   <Placemark>
 	<name>Appartel am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">101588065</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1033,7 +1033,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel CM City Class Europa</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165372</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1043,7 +1043,7 @@
   </Placemark>
   <Placemark>
 	<name>Tryp</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">101713496</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1053,7 +1053,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Sion</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165373</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1063,7 +1063,7 @@
   </Placemark>
   <Placemark>
 	<name>Bildungslandschaft Altstadt Nord (Baufeld B1)</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">52420181</SimpleData>
 		<SimpleData name="code">2082</SimpleData>
@@ -1072,7 +1072,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9478053,50.9458446990773 6.9479649,50.9459190990773 6.9478907,50.9460062990773 6.948258,50.9461746990773 6.948713,50.9463974990773 6.9495104,50.9457070990773 6.949488,50.9454159990773 6.9479295,50.9455244990773 6.9478053,50.9458446990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165376</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1081,7 +1081,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9591742,50.9392647990773 6.9591841,50.9393047990773 6.9593667,50.9392842990773 6.9593521,50.9392230990773 6.9591742,50.9392647990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165387</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1091,7 +1091,7 @@
   </Placemark>
   <Placemark>
 	<name>Opernbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">131886625</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -1101,7 +1101,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Altstadt Bräu</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328165399</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1111,7 +1111,7 @@
   </Placemark>
   <Placemark>
 	<name>MediaPark</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">23705184</SimpleData>
 		<SimpleData name="code">2110</SimpleData>
@@ -1121,7 +1121,7 @@
   </Placemark>
   <Placemark>
 	<name>Bethmann Bank</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328253422</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -1131,7 +1131,7 @@
   </Placemark>
   <Placemark>
 	<name>Savoy Hotel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">144886425</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1141,7 +1141,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Am Römerbrunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328259591</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1150,7 +1150,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9513515,50.9416482990773 6.9513976,50.9416477990773 6.951399,50.9416986990773 6.9513548,50.9416991990773 6.9513577,50.9417421990773 6.951449,50.9417429990773 6.9514423,50.9416487990773 6.951444,50.9415520990773 6.951429,50.9415516990773 6.951404,50.9415510990773 6.9513557,50.9415497990773 6.9513515,50.9416482990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328259637</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -1159,7 +1159,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9521975,50.9427012990773 6.9522061,50.9427021990773 6.9523008,50.9427100990773 6.9525508,50.9427308990773 6.9525733,50.9426082990773 6.9523108,50.9425889990773 6.9522164,50.9425820990773 6.952206,50.9426472990773 6.9521975,50.9427012990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">477170110</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -1168,7 +1168,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9582567,50.9430531990773 6.9582957,50.9430692990773 6.9583298,50.9430363990773 6.9582908,50.9430202990773 6.9582567,50.9430531990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328259640</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -1178,7 +1178,7 @@
   </Placemark>
   <Placemark>
 	<name>Jan von Werth-Brunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">353397486</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -1187,7 +1187,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9599726,50.9386007990773 6.9599752,50.9386067990773 6.9599849,50.9386115990773 6.9599847,50.9386231990773 6.9599936,50.9386306990773 6.9600054,50.9386358990773 6.9600196,50.9386379990773 6.9600318,50.9386359990773 6.9600433,50.9386309990773 6.9600522,50.9386234990773 6.9600524,50.9386111990773 6.9600611,50.9386069990773 6.9600643,50.9386004990773 6.9600612,50.9385942990773 6.9600525,50.9385900990773 6.9600525,50.9385755990773 6.9600442,50.9385679990773 6.9600326,50.9385625990773 6.9600202,50.9385607990773 6.9600062,50.9385623990773 6.9599945,50.9385677990773 6.9599851,50.9385755990773 6.959985,50.9385899990773 6.9599753,50.9385939990773 6.9599726,50.9386007990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">477170111</SimpleData>
 		<SimpleData name="code">2302</SimpleData>
@@ -1197,7 +1197,7 @@
   </Placemark>
   <Placemark>
 	<name>Sal. Oppenheim</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328262450</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -1207,7 +1207,7 @@
   </Placemark>
   <Placemark>
 	<name>Wiener Feinbäcker</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">477170112</SimpleData>
 		<SimpleData name="code">2502</SimpleData>
@@ -1217,7 +1217,7 @@
   </Placemark>
   <Placemark>
 	<name>Fachhochschule Köln</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">4590862</SimpleData>
 		<SimpleData name="code">2081</SimpleData>
@@ -1227,7 +1227,7 @@
   </Placemark>
   <Placemark>
 	<name>Hilton Cologne</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328264591</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1236,7 +1236,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9550978,50.9435564990773 6.955232,50.9435576990773 6.9552889,50.9435580990773 6.9553697,50.9435586990773 6.9553704,50.9435336990773 6.9554792,50.9435344990773 6.9555226,50.9435345990773 6.9557533,50.9435447990773 6.9557601,50.9434721990773 6.9557233,50.9434709990773 6.9557587,50.9431237990773 6.9557534,50.9430204990773 6.9557819,50.9430196990773 6.9557913,50.9430193990773 6.9558252,50.9430184990773 6.9558161,50.9429137990773 6.9558139,50.9429136990773 6.9556515,50.9429195990773 6.9556549,50.9429543990773 6.9553729,50.9429609990773 6.9553725,50.9429293990773 6.9551098,50.9429385990773 6.9551015,50.9429389990773 6.9551022,50.9430310990773 6.9551466,50.9430313990773 6.9551455,50.9430499990773 6.9551422,50.9434626990773 6.9550994,50.9434623990773 6.9550978,50.9435564990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328264595</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -1246,7 +1246,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Merian</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">144988701</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1256,7 +1256,7 @@
   </Placemark>
   <Placemark>
 	<name>Drei Könige am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328265553</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1266,7 +1266,7 @@
   </Placemark>
   <Placemark>
 	<name>Klingelpütz Park</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">44443729</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -1276,7 +1276,7 @@
   </Placemark>
   <Placemark>
 	<name>Mondial Am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">965410</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1286,7 +1286,7 @@
   </Placemark>
   <Placemark>
 	<name>Archäologische Zone / Neubau Jüdisches Museum „MiQua“</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">34309348</SimpleData>
 		<SimpleData name="code">2733</SimpleData>
@@ -1296,7 +1296,7 @@
   </Placemark>
   <Placemark>
 	<name>Drei Kronen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">62116578</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1306,7 +1306,7 @@
   </Placemark>
   <Placemark>
 	<name>Alter Römer</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">62116582</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1316,7 +1316,7 @@
   </Placemark>
   <Placemark>
 	<name>Römisches Nordtor</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">160627788</SimpleData>
 		<SimpleData name="code">2733</SimpleData>
@@ -1326,7 +1326,7 @@
   </Placemark>
   <Placemark>
 	<name>Römisch-Germanisches Museum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">965473</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1336,7 +1336,7 @@
   </Placemark>
   <Placemark>
 	<name>Römischer Abwasserkanal</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">39888110</SimpleData>
 		<SimpleData name="code">2733</SimpleData>
@@ -1345,7 +1345,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9582111,50.9390692990773 6.9582121,50.9391055990773 6.9582646,50.9391050990773 6.9582637,50.9390686990773 6.9582111,50.9390692990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">492587549</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -1355,7 +1355,7 @@
   </Placemark>
   <Placemark>
 	<name>Kolumba Kunstmuseum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">23799547</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1364,7 +1364,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9539335,50.9388151990773 6.9539344,50.9388153990773 6.9540911,50.9388196990773 6.9540902,50.9387956990773 6.9541512,50.9387977990773 6.9541544,50.9387458990773 6.9541702,50.9385525990773 6.9543475,50.9385633990772 6.9545017,50.9385737990773 6.9545119,50.9385075990773 6.9545158,50.9384824990773 6.9545377,50.9384835990772 6.9545381,50.9384792990773 6.9545977,50.9384723990773 6.9546045,50.9384270990773 6.9545412,50.9384108990773 6.9544886,50.9382535990773 6.9542751,50.9382956990773 6.9541287,50.9383136990773 6.9541287,50.9383142990773 6.9540418,50.9383245990773 6.9539834,50.9383314990773 6.9539781,50.9383786990773 6.9540333,50.9383815990773 6.9540348,50.9383758990772 6.9540454,50.9383763990773 6.9540442,50.9383820990773 6.9541203,50.9383857990773 6.9541206,50.9383818990773 6.9541319,50.9383829990773 6.9541316,50.9383854990773 6.9541415,50.9383860990773 6.9541412,50.9383875990773 6.9541476,50.9383860990773 6.9541456,50.9383826990773 6.9541478,50.9383822990773 6.9541497,50.9383856990773 6.9541892,50.9383761990773 6.9541895,50.9383714990773 6.9541916,50.9383714990773 6.9541923,50.9383762990773 6.9542344,50.9383853990773 6.9542391,50.9383819990773 6.9542409,50.9383828990773 6.9542367,50.9383864990773 6.9542601,50.9384100990773 6.9542677,50.9384094990773 6.9542684,50.9384106990772 6.9542602,50.9384122990773 6.9542552,50.9384397990773 6.9542631,50.9384423990773 6.9542621,50.9384436990773 6.9542556,50.9384417990773 6.9542231,50.9384621990772 6.9542259,50.9384664990773 6.954224,50.9384671990773 6.9542204,50.9384628990773 6.9541775,50.9384660990773 6.9541754,50.9384705990773 6.9541735,50.9384703990773 6.954135,50.9384544990773 6.9541371,50.9384507990773 6.9541335,50.9384496990773 6.9541224,50.9384488990773 6.9539709,50.9384393990773 6.9539572,50.9385843990773 6.9539335,50.9388151990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328455001</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -1374,7 +1374,7 @@
   </Placemark>
   <Placemark>
 	<name>Residenz am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328470798</SimpleData>
 		<SimpleData name="code">2013</SimpleData>
@@ -1383,7 +1383,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9542823,50.9432984990773 6.9545123,50.9432988990773 6.9544798,50.9435859990773 6.9544781,50.9435857990773 6.9544776,50.9435893990773 6.9545731,50.9435936990773 6.9545686,50.9436341990773 6.9546616,50.9436345990773 6.9546613,50.9436625990773 6.9546893,50.9436631990773 6.9547008,50.9437377990773 6.9547231,50.9437377990773 6.9547323,50.9437927990773 6.9548992,50.9437928990773 6.9548977,50.9437567990773 6.9548996,50.9436545990773 6.954882,50.9436545990773 6.954882,50.9436348990773 6.9548996,50.9436348990773 6.9549,50.9435959990773 6.9548815,50.9435959990773 6.954882,50.9435873990773 6.9549,50.9435873990773 6.9548988,50.9435394990773 6.9549003,50.9435305990773 6.9548821,50.9435305990773 6.9548825,50.9435219990773 6.9549003,50.9435219990773 6.9549007,50.9434652990773 6.9548822,50.9434652990773 6.9548828,50.9434568990773 6.9549006,50.9434568990773 6.9549011,50.9433998990773 6.954883,50.9433998990773 6.9548834,50.9433914990773 6.954901,50.9433914990773 6.9549014,50.9433348990773 6.9548832,50.9433348990773 6.9548832,50.9433262990773 6.9549013,50.9433262990773 6.9549017,50.9432693990773 6.9548835,50.9432693990773 6.9548839,50.9432609990773 6.954861,50.9432607990773 6.9548605,50.9432396990773 6.9548834,50.9432396990773 6.9548838,50.9432312990773 6.9549018,50.9432315990773 6.9549023,50.9431748990773 6.9548839,50.9431748990773 6.9548843,50.9431664990773 6.9549022,50.9431664990773 6.9549026,50.9431098990773 6.9548843,50.9431098990773 6.9548849,50.9431012990773 6.9549025,50.9431012990773 6.954903,50.9430445990773 6.9548852,50.9430445990773 6.9548848,50.9430359990773 6.9549029,50.9430359990773 6.9549033,50.9429793990773 6.9548854,50.9429793990773 6.9548854,50.9429709990773 6.9549032,50.9429709990773 6.9549036,50.9429143990773 6.9548853,50.9429141990773 6.9548857,50.9429057990773 6.9549036,50.9429057990773 6.954904,50.9428483990773 6.9548863,50.9428482990773 6.9548859,50.9428399990773 6.954904,50.9428398990773 6.9549044,50.9427823990773 6.9548863,50.9427822990773 6.9548863,50.9427742990773 6.9548677,50.9427742990773 6.9548681,50.9427623990773 6.9547383,50.9427619990773 6.9547379,50.9427737990773 6.9545729,50.9427733990773 6.9545661,50.9428370990773 6.9545334,50.9431448990773 6.9543206,50.9431446990773 6.9542823,50.9432984990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">583393690</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -1393,7 +1393,7 @@
   </Placemark>
   <Placemark>
 	<name>DuMont-Brunnen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">583394998</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -1403,7 +1403,7 @@
   </Placemark>
   <Placemark>
 	<name>Rathausplatz / Archäologische Zone</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">224502393</SimpleData>
 		<SimpleData name="code">2733</SimpleData>
@@ -1413,7 +1413,7 @@
   </Placemark>
   <Placemark>
 	<name>Marriott Courtyard Cologne</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">353947476</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1423,7 +1423,7 @@
   </Placemark>
   <Placemark>
 	<name>Cerano City Hotel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328487147</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1433,7 +1433,7 @@
   </Placemark>
   <Placemark>
 	<name>EL-DE-Haus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328487148</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1442,7 +1442,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9497529,50.9406825990773 6.9499793,50.9406958990773 6.9500827,50.9407019990773 6.9502194,50.9407099990773 6.9502366,50.9407006990773 6.9502463,50.9406104990773 6.9502608,50.9404762990773 6.9502685,50.9404040990773 6.950046,50.9403945990773 6.9499034,50.9403886990773 6.9498844,50.9405675990773 6.9500951,50.9405796990773 6.9500901,50.9406206990773 6.9500403,50.9406181990773 6.9500428,50.9405988990773 6.949766,50.9405849990773 6.9497529,50.9406825990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328487149</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -1452,7 +1452,7 @@
   </Placemark>
   <Placemark>
 	<name>Star am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">37863938</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1461,7 +1461,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9546426,50.9450628990773 6.9549056,50.9450898990773 6.9548966,50.9451274990773 6.9549319,50.9451302990773 6.9549638,50.9450039990773 6.9546631,50.9449722990773 6.9546426,50.9450628990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">37863943</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -1471,7 +1471,7 @@
   </Placemark>
   <Placemark>
 	<name>Museum für Angewandte Kunst</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">4595998</SimpleData>
 		<SimpleData name="code">2014</SimpleData>
@@ -1481,7 +1481,7 @@
   </Placemark>
   <Placemark>
 	<name>A&amp;O Köln Hauptbahnhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">37863946</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1491,7 +1491,7 @@
   </Placemark>
   <Placemark>
 	<name>Museum für Angewandte Kunst</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">4595998</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1501,7 +1501,7 @@
   </Placemark>
   <Placemark>
 	<name>Harmonie</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">37863948</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1511,7 +1511,7 @@
   </Placemark>
   <Placemark>
 	<name>Cristall</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">37863949</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1521,7 +1521,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Berg</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236557589</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1531,7 +1531,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Müller</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236557599</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1541,7 +1541,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Ludwig GmbH</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236557607</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1551,7 +1551,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Brandenburger Hof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236557608</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1561,7 +1561,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Einig</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236587323</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1571,7 +1571,7 @@
   </Placemark>
   <Placemark>
 	<name>Domblick Garni</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">236587330</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1581,7 +1581,7 @@
   </Placemark>
   <Placemark>
 	<name>Senats Hotel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27637905</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1591,7 +1591,7 @@
   </Placemark>
   <Placemark>
 	<name>Duftmuseum im Farina-Haus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">48359832</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1601,7 +1601,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Engelbertz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">48360660</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1611,7 +1611,7 @@
   </Placemark>
   <Placemark>
 	<name>mittelalterliche Stadtmauer</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">422164073</SimpleData>
 		<SimpleData name="code">2721</SimpleData>
@@ -1621,7 +1621,7 @@
   </Placemark>
   <Placemark>
 	<name>Zeughaus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">111265514</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1631,7 +1631,7 @@
   </Placemark>
   <Placemark>
 	<name>Alte Wache</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">111265518</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1641,7 +1641,7 @@
   </Placemark>
   <Placemark>
 	<name>Chargesheimer</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">30482607</SimpleData>
 		<SimpleData name="code">2305</SimpleData>
@@ -1651,7 +1651,7 @@
   </Placemark>
   <Placemark>
 	<name>Humboldt1 Palais-Hotel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328812460</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1661,7 +1661,7 @@
   </Placemark>
   <Placemark>
 	<name>Maria Montessori</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">53272962</SimpleData>
 		<SimpleData name="code">2083</SimpleData>
@@ -1670,7 +1670,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.954735,50.9459526990773 6.9548652,50.9459938990773 6.9548987,50.9459502990773 6.9550549,50.9459473990773 6.9550504,50.9458412990773 6.95475,50.9458469990773 6.9547385,50.9459234990773 6.9547364,50.9459393990773 6.954735,50.9459526990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">1229450</SimpleData>
 		<SimpleData name="code">2252</SimpleData>
@@ -1679,7 +1679,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9495885,50.9458649990773 6.9495921,50.9458876990773 6.9496088,50.9459259990773 6.9496264,50.9459443990773 6.9496532,50.9459682990773 6.9496897,50.9459900990773 6.9497316,50.9460066990773 6.9497666,50.9460155990773 6.9498034,50.9460218990773 6.949851,50.9460238990773 6.9498753,50.9460228990773 6.9499524,50.9460246990773 6.9500139,50.9460220990773 6.9500543,50.9460185990773 6.9500955,50.9460126990773 6.9501317,50.9460065990773 6.9501707,50.9459974990773 6.9502083,50.9459877990773 6.9502351,50.9459796990773 6.950629,50.9458828990773 6.9506016,50.9458369990773 6.9505179,50.9457121990773 6.9505117,50.9457137990773 6.9504737,50.9456558990773 6.9504446,50.9456634990773 6.9503705,50.9455558990773 6.950402,50.9455465990773 6.9503561,50.9454692990773 6.9498241,50.9455794990773 6.9498184,50.9456045990773 6.9498089,50.9456243990773 6.9497906,50.9456431990773 6.9497478,50.9456733990773 6.9497053,50.9457113990773 6.9496851,50.9457369990773 6.9496558,50.9457795990773 6.9496367,50.9458229990773 6.9496293,50.9458472990773 6.9495907,50.9458412990773 6.9495885,50.9458649990773</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates>6.9498841,50.9456852990773 6.9500859,50.9456253990773 6.9502528,50.9458486990773 6.950051,50.9459085990773 6.9498841,50.9456852990773</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328812473</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1688,7 +1688,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9509779,50.9400467990773 6.9509852,50.9401728990773 6.9510443,50.9401714990773 6.9510428,50.9401347990773 6.9510676,50.9401361990773 6.9510672,50.9401270990773 6.9510628,50.9401267990773 6.9510583,50.9400411990773 6.9510037,50.9400449990773 6.9509779,50.9400467990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">44908408</SimpleData>
 		<SimpleData name="code">2252</SimpleData>
@@ -1697,7 +1697,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9498841,50.9456852990773 6.950051,50.9459085990773 6.9502528,50.9458486990773 6.9500859,50.9456253990773 6.9498841,50.9456852990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328828246</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1707,7 +1707,7 @@
   </Placemark>
   <Placemark>
 	<name>Domkloster 4</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33175189</SimpleData>
 		<SimpleData name="code">2521</SimpleData>
@@ -1717,7 +1717,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Glockengasse</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">328845298</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1727,7 +1727,7 @@
   </Placemark>
   <Placemark>
 	<name>Musical Dome</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">16367389</SimpleData>
 		<SimpleData name="code">2201</SimpleData>
@@ -1736,7 +1736,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9611311,50.9426900990773 6.9614012,50.9431400990773 6.9615822,50.9430955990773 6.961596,50.9431194990773 6.9616693,50.9431048990773 6.9616546,50.9430797990773 6.9622427,50.9429394990773 6.9622434,50.9428984990773 6.962242,50.9428542990773 6.9622288,50.9428012990773 6.9622837,50.9427928990773 6.9622684,50.9427492990773 6.9622479,50.9427031990773 6.962212,50.9426450990773 6.9621548,50.9425823990773 6.9621093,50.9425984990773 6.9620739,50.9425646990773 6.9620391,50.9425353990773 6.9619911,50.9425016990773 6.9619718,50.9424893990773 6.9611311,50.9426900990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">544963765</SimpleData>
 		<SimpleData name="code">2904</SimpleData>
@@ -1746,7 +1746,7 @@
   </Placemark>
   <Placemark>
 	<name>Excelsior Hotel Ernst</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">7103753</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1756,7 +1756,7 @@
   </Placemark>
   <Placemark>
 	<name>Kölnisches Stadtmuseum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33203619</SimpleData>
 		<SimpleData name="code">2722</SimpleData>
@@ -1766,7 +1766,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Am Museum</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329041030</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1775,7 +1775,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9595628,50.9396228990773 6.9595794,50.9396887990773 6.9597019,50.9396778990773 6.9597029,50.9396822990773 6.9597576,50.9396773990773 6.9597584,50.9396567990773 6.9596986,50.9396618990773 6.9596884,50.9396137990773 6.9595655,50.9396224990773 6.9595628,50.9396228990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329049396</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -1785,7 +1785,7 @@
   </Placemark>
   <Placemark>
 	<name>Bürgerbüro</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329049397</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -1795,7 +1795,7 @@
   </Placemark>
   <Placemark>
 	<name>Historisches Rathaus</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329049399</SimpleData>
 		<SimpleData name="code">2008</SimpleData>
@@ -1805,7 +1805,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Römerhafen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329053898</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1815,7 +1815,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel an der Philhamonie</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329053900</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1825,7 +1825,7 @@
   </Placemark>
   <Placemark>
 	<name>Kunibert der Fiese</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329053909</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1835,7 +1835,7 @@
   </Placemark>
   <Placemark>
 	<name>Sparda-Bank Filiale Köln Appellhofplatz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33276042</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -1845,7 +1845,7 @@
   </Placemark>
   <Placemark>
 	<name>Casa Colonia</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">168912450</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1855,7 +1855,7 @@
   </Placemark>
   <Placemark>
 	<name>Miguelitos</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">237083960</SimpleData>
 		<SimpleData name="code">2301</SimpleData>
@@ -1865,7 +1865,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Europäischer Hof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">36822579</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1875,7 +1875,7 @@
   </Placemark>
   <Placemark>
 	<name>Station</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27878172</SimpleData>
 		<SimpleData name="code">2404</SimpleData>
@@ -1885,7 +1885,7 @@
   </Placemark>
   <Placemark>
 	<name>Hansa Gymnasium Schulhof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">89370085</SimpleData>
 		<SimpleData name="code">2252</SimpleData>
@@ -1895,7 +1895,7 @@
   </Placemark>
   <Placemark>
 	<name>St. Marien-Hospital</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">168986558</SimpleData>
 		<SimpleData name="code">2110</SimpleData>
@@ -1905,7 +1905,7 @@
   </Placemark>
   <Placemark>
 	<name>Central - Hotel am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27881348</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1915,7 +1915,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Domspatz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27881350</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1925,7 +1925,7 @@
   </Placemark>
   <Placemark>
 	<name>Zur Post am Dom</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27881352</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1935,7 +1935,7 @@
   </Placemark>
   <Placemark>
 	<name>Kiosk am Rhing</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">38127347</SimpleData>
 		<SimpleData name="code">2503</SimpleData>
@@ -1945,7 +1945,7 @@
   </Placemark>
   <Placemark>
 	<name>Sandmanns</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">27881361</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1955,7 +1955,7 @@
   </Placemark>
   <Placemark>
 	<name>Hansa-Gymnasium</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">89453120</SimpleData>
 		<SimpleData name="code">2082</SimpleData>
@@ -1965,7 +1965,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel La Isla</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">281938370</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1975,7 +1975,7 @@
   </Placemark>
   <Placemark>
 	<name>Altstadt- Hotel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329198727</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1985,7 +1985,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Ziegenhagen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">281938423</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -1995,7 +1995,7 @@
   </Placemark>
   <Placemark>
 	<name>Brauhaus Giesler</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329198728</SimpleData>
 		<SimpleData name="code">2304</SimpleData>
@@ -2005,7 +2005,7 @@
   </Placemark>
   <Placemark>
 	<name>Klingelpütz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">1229449</SimpleData>
 		<SimpleData name="code">2204</SimpleData>
@@ -2015,7 +2015,7 @@
   </Placemark>
   <Placemark>
 	<name>Hauptpost</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">4590828</SimpleData>
 		<SimpleData name="code">2099</SimpleData>
@@ -2025,7 +2025,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Das kleine Stapelhäuschen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329198732</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -2034,7 +2034,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9619491,50.9384118990773 6.9620142,50.9384164990773 6.9620154,50.9384040990773 6.962018,50.9383702990773 6.9620975,50.9383714990772 6.9621051,50.9382891990772 6.9619778,50.9382797990773 6.9619531,50.9383924990772 6.9619491,50.9384118990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">90977785</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -2044,7 +2044,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Der Löwenbräu</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329198733</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -2054,7 +2054,7 @@
   </Placemark>
   <Placemark>
 	<name>Rhein-Hotel Sankt Martin</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">329198769</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -2064,7 +2064,7 @@
   </Placemark>
   <Placemark>
 	<name>Ursulinen Realschule für Mädchen und Jungen</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">211448837</SimpleData>
 		<SimpleData name="code">2082</SimpleData>
@@ -2074,7 +2074,7 @@
   </Placemark>
   <Placemark>
 	<name>Freizeitanlage Klingelpütz</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">91003350</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -2083,7 +2083,7 @@
       <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>6.9507204,50.9466819990773 6.9508293,50.9467418990773 6.9511488,50.9469238990773 6.9512759,50.9469960990773 6.9513934,50.9469116990773 6.9512936,50.9468543990773 6.9512683,50.9468398990773 6.9512077,50.9468058990773 6.9511235,50.9467573990773 6.9510961,50.9467417990773 6.9509952,50.9466841990773 6.9509647,50.9466668990773 6.950895,50.9466269990773 6.9508144,50.9466449990773 6.9507534,50.9466584990773 6.9507204,50.9466819990773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">24234398</SimpleData>
 		<SimpleData name="code">2205</SimpleData>
@@ -2093,7 +2093,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Novotel Köln-West</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">33437636</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -2103,7 +2103,7 @@
   </Placemark>
   <Placemark>
 	<name>Commerzbank</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">26773518</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -2113,7 +2113,7 @@
   </Placemark>
   <Placemark>
 	<name>Deutsche Bank</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">26773634</SimpleData>
 		<SimpleData name="code">2601</SimpleData>
@@ -2123,7 +2123,7 @@
   </Placemark>
   <Placemark>
 	<name>Bier- und Weinhaus K. Vogel</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282279828</SimpleData>
 		<SimpleData name="code">2301</SimpleData>
@@ -2133,7 +2133,7 @@
   </Placemark>
   <Placemark>
 	<name>Hotel Eden am Hof</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">30776610</SimpleData>
 		<SimpleData name="code">2401</SimpleData>
@@ -2143,7 +2143,7 @@
   </Placemark>
   <Placemark>
 	<name>Nico's Kneipe</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>6414F000</color></LineStyle><PolyStyle><color>3714F000</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#POIS">
 		<SimpleData name="osm_id">282292930</SimpleData>
 		<SimpleData name="code">2304</SimpleData>

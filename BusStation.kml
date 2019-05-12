@@ -9,7 +9,7 @@
 <Folder><name>BusStation</name>
   <Placemark>
 	<name>Breslauer Platz/Hbf</name>
-	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>64FF7800</color></LineStyle><PolyStyle><color>3cFF7800</color><colorMode>random</colorMode></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#BusStation">
 		<SimpleData name="osm_id">541551673</SimpleData>
 		<SimpleData name="code">5622</SimpleData>
